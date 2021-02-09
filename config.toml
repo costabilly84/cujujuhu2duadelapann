@@ -1,0 +1,4 @@
+baseURL = "https://home-americana344.vercel.app"
+languageCode = "en-us"
+title = "Home Decor Ornaments"
+theme = "hugo-theme-minos"
